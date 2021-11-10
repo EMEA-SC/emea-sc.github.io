@@ -53,10 +53,10 @@
   border-bottom-right-radius: 20px !important;
 }
 
-.lpc_card__text {
+/*.lpc_card__text {
   background-color: var(--main-color) !important;
   color: var(--agent-text-color) !important;
-}
+}8/
 
 .lpc_card__image {
   border-top-right-radius: 20px !important;
