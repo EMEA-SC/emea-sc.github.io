@@ -15,7 +15,10 @@
 
 .lpc_message_card{
     background-color: #FFFFFF !important;
+}
 
+.lpc_card__text{
+    background-color: #FFFFFF !important;
 }
 
 /* .lpc_message__text_agent {
